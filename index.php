@@ -1,4 +1,3 @@
-#!/bin/bash/php
 <?php
 $color = "red";
 echo "My car is " . $color . "<br>";
